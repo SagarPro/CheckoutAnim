@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="flip_view">
+        <attr name="flipOnTouch" format="boolean"/>
+        <attr name="flipDuration" format="integer"/>
+        <attr name="flipEnabled" format="boolean"/>
+        <attr name="animFlipInId" format="reference"/>
+        <attr name="animFlipOutId" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="checkout_card">
+        <attr name="cardColor" format="reference"/>
+        <attr name="buttonColor" format="reference"/>
+    </declare-styleable>
+
+</resources>

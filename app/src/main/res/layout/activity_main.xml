@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="sagsaguz.checkoutanim.MainActivity">
+
+<<<<<<< HEAD
+    <sagsaguz.checkoutanimlib.Checkout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardColor="@color/black"
+        app:buttonColor="@color/black"
+        android:id="@+id/cOut"/>
+=======
+    <sagsaguz.checkoutanimlib.CheckoutActivity
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardColor="@color/black"
+            app:buttonColor="@color/black"
+            android:id="@+id/cOut"/>
+>>>>>>> 0885696b47f5ec9a197b4f3303e0f6e287cc7e5c
+
+</android.support.constraint.ConstraintLayout>
